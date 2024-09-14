@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+  m_Name: thekey
+  m_EditorClassIdentifier: 
+  RequiredBundles: []
+  IncompatibleBundles: []
+  scrapType: 0
+  itemName: The Key
+  minValue: 250
+  maxValue: 250
+  twoHanded: 0
+  HandedAnimation: 0
+  requiresBattery: 0
+  isConductiveMetal: 1
+  weight: 0
+  prefab: {fileID: 1208825768484120617, guid: 6f441dc626cd58046875e563f31b8172, type: 3}
+  grabSFX: GrabKey
+  dropSFX: DropKey
+  verticalOffset: 0
+  restingRotation: {x: 0, y: 0, z: 0}
+  positionOffset: {x: -0.2, y: 0, z: -0.1}
+  rotationOffset: {x: 0, y: -90, z: 0}
+  meshVariants: []
+  materialVariants: []
+  useGlobalSpawnWeight: 1
+  globalSpawnWeight: 2
+  _perPlanetSpawnWeight:
+  - SceneName: 41 Experimentation
+    SpawnWeight: 10
+  - SceneName: 220 Assurance
+    SpawnWeight: 10
+  - SceneName: 56 Vow
+    SpawnWeight: 10
+  - SceneName: 21 Offense
+    SpawnWeight: 10
+  - SceneName: 61 March
+    SpawnWeight: 10
+  - SceneName: 85 Rend
+    SpawnWeight: 10
+  - SceneName: 7 Dine
+    SpawnWeight: 10
+  - SceneName: 8 Titan
+    SpawnWeight: 10
+  - SceneName: Others
+    SpawnWeight: 10
+  playetSpawnBlacklist: []
+  shovelHitForce: 1
+  shovelAudio: {fileID: 0}
+  reelUp: ShovelReelUp
+  swing: ShovelSwing
+  hitSFX:
+  - ShovelHitDefault
+  - ShovelHitDefault2
+  usingPlayerHelmetLight: 0
+  flashlightInterferenceLevel: 0
+  flashlightBulb: {fileID: 0}
+  flashlightBulbGlow: {fileID: 0}
+  flashlightAudio: {fileID: 0}
+  flashlightClips:
+  - FlashlightClick
+  outOfBatteriesClip: FlashlightOutOfBatteries
+  flashlightFlicker: FlashlightFlicker
+  bulbLight: {fileID: 0}
+  bulbDark: {fileID: 0}
+  flashlightMesh: {fileID: 0}
+  flashlightTypeID: 0
+  changeMaterial: 1
+  noiseAudio: {fileID: 0}
+  noiseAudioFar: {fileID: 0}
+  noiseSFX:
+  - ClownHorn1
+  noiseSFXFar:
+  - ClownHornFar
+  noiseRange: 60
+  maxLoudness: 1
+  minLoudness: 0.6
+  minPitch: 0.93
+  maxPitch: 1
+  triggerAnimator: {fileID: 0}
+  whoopieCushionAudio: {fileID: 0}
+  fartAudios:
+  - Fart1
+  - Fart2
+  - Fart3
+  - Fart5
+  serializedData: 41 Experimentation,10;220 Assurance,10;56 Vow,10;21 Offense,10;61
+    March,10;85 Rend,10;7 Dine,10;8 Titan,10;Others,10
