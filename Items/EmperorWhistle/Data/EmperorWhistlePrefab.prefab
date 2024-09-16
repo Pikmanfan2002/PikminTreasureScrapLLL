@@ -312,13 +312,13 @@ MonoBehaviour:
   noiseAudio: {fileID: -6369864102703881957}
   noiseAudioFar: {fileID: 8895135484777393373}
   noiseSFX:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8300000, guid: ef4c324d9c378fe4c88753c9d9996ac0, type: 3}
+  - {fileID: 8300000, guid: 6ef7a2249cb974342b2c9cb055b81fb0, type: 3}
+  - {fileID: 8300000, guid: 2b84391d55c5aed4191157c29951a8f4, type: 3}
   noiseSFXFar:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8300000, guid: ef4c324d9c378fe4c88753c9d9996ac0, type: 3}
+  - {fileID: 8300000, guid: 6ef7a2249cb974342b2c9cb055b81fb0, type: 3}
+  - {fileID: 8300000, guid: 2b84391d55c5aed4191157c29951a8f4, type: 3}
   noiseRange: 60
   maxLoudness: 1
   minLoudness: 0.6

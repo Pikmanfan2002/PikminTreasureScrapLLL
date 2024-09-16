@@ -30,3 +30,5 @@ MonoBehaviour:
     _rarity: 14
   - _name: 8 Titan
     _rarity: 20
+  - _name: Artifice
+    _rarity: 5

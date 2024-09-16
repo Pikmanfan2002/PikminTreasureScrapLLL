@@ -20,3 +20,5 @@ MonoBehaviour:
   planetNames:
   - _name: 8 Titan
     _rarity: 3
+  - _name: Artifice
+    _rarity: 10

@@ -28,3 +28,5 @@ MonoBehaviour:
     _rarity: 20
   - _name: 61 March
     _rarity: 35
+  - _name: Adamance
+    _rarity: 20

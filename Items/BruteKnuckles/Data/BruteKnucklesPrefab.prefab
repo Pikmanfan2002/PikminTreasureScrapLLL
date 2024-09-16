@@ -252,7 +252,11 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 6b0b000d438ce6d448b57a9f95184b89,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: -7176519481767672630}
+      addedObject: {fileID: 6557618189256630615}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 6b0b000d438ce6d448b57a9f95184b89,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7341339963603193083}
   m_SourcePrefab: {fileID: 100100000, guid: 6b0b000d438ce6d448b57a9f95184b89, type: 3}
 --- !u!1 &4884755144826751315 stripped
 GameObject:
@@ -398,7 +402,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &-7176519481767672630
+--- !u!114 &6557618189256630615
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -407,7 +411,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4884755144826751315}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d0cf24d2ccc3b7eab72048d0f57c437, type: 3}
+  m_Script: {fileID: 11500000, guid: c7b430c469db0421764b70ff9c06bc0d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   grabbable: 1
@@ -447,6 +451,31 @@ MonoBehaviour:
   reachedFloorTarget: 0
   grabbableToEnemies: 1
   hasBeenHeld: 0
+  shovelHitForce: 1
+  reelingUp: 0
+  isHoldingButton: 0
+  reelUp: {fileID: 8300000, guid: fabcf5631a7706d4dba5f03d5691631c, type: 3}
+  swing: {fileID: 8300000, guid: 45923a32318bc0c4f82dd958b4c9956f, type: 3}
+  hitSFX:
+  - {fileID: 8300000, guid: 5d43c4fb403074e49913f3202da70228, type: 3}
+  - {fileID: 8300000, guid: 95c27165a77b326438305c2e9a913c1d, type: 3}
+  shovelAudio: {fileID: -6470237958369981284}
+--- !u!114 &7341339963603193083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4884755144826751315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04f75356a7e9c978bddc7d568e58a50b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  useReverb: 0
+  overridingLowPass: 0
+  lowPassOverride: 20000
+  debugLog: 0
 --- !u!4 &5224723403387786217 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6b0b000d438ce6d448b57a9f95184b89,

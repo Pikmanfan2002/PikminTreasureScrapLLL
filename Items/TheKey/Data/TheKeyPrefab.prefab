@@ -267,7 +267,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7aaee2f6593d0b84d82a6878e72124b4,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 3680552840299830857}
+      addedObject: {fileID: -777484600002489998}
   m_SourcePrefab: {fileID: 100100000, guid: 7aaee2f6593d0b84d82a6878e72124b4, type: 3}
 --- !u!1 &1208825768484120617 stripped
 GameObject:
@@ -413,7 +413,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &3680552840299830857
+--- !u!114 &-777484600002489998
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -422,7 +422,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1208825768484120617}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3d0cf24d2ccc3b7eab72048d0f57c437, type: 3}
+  m_Script: {fileID: 11500000, guid: b87503194bf04c760a21c5bb1b0278db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   grabbable: 1
@@ -435,7 +435,7 @@ MonoBehaviour:
   floorYRot: 0
   fallTime: 0
   hasHitGround: 0
-  scrapValue: 0
+  scrapValue: 3
   itemUsedUp: 0
   playerHeldBy: {fileID: 0}
   isPocketed: 0
@@ -454,7 +454,8 @@ MonoBehaviour:
   propColliders: []
   originalScale: {x: 0, y: 0, z: 0}
   wasOwnerLastFrame: 0
-  mainObjectRenderer: {fileID: 0}
+  mainObjectRenderer: {fileID: 23220081091686142, guid: 3ec37c37d6e4bca459a7d39f73d090b9,
+    type: 3}
   isSendingItemRPC: 0
   scrapPersistedThroughRounds: 0
   heldByPlayerOnServer: 0

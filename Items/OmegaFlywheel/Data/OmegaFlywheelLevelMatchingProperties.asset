@@ -18,15 +18,9 @@ MonoBehaviour:
   currentRoutePrice: []
   currentWeather: []
   planetNames:
-  - _name: 41 Experimentation
+  - _name: Assurance
+    _rarity: 5
+  - _name: March
     _rarity: 15
-  - _name: 220 Assurance
-    _rarity: 15
-  - _name: 56 Vow
-    _rarity: 15
-  - _name: 21 Offense
-    _rarity: 25
-  - _name: 61 March
-    _rarity: 25
-  - _name: 8 Titan
-    _rarity: 15
+  - _name: Adamance
+    _rarity: 20

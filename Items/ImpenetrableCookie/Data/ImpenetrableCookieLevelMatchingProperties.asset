@@ -32,3 +32,5 @@ MonoBehaviour:
     _rarity: 5
   - _name: 7 Dine
     _rarity: 5
+  - _name: Adamance
+    _rarity: 15

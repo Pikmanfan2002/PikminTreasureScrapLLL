@@ -30,3 +30,7 @@ MonoBehaviour:
     _rarity: 5
   - _name: 85 Rend
     _rarity: 15
+  - _name: Artifice
+    _rarity: 10
+  - _name: Adamance
+    _rarity: 20

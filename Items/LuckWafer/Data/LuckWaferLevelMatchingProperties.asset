@@ -23,8 +23,12 @@ MonoBehaviour:
   - _name: 61 March
     _rarity: 3
   - _name: 85 Rend
-    _rarity: 4
+    _rarity: 5
   - _name: 7 Dine
     _rarity: 5
   - _name: 8 Titan
     _rarity: 6
+  - _name: Artifice
+    _rarity: 6
+  - _name: Adamance
+    _rarity: 5

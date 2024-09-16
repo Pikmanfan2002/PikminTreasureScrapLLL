@@ -34,3 +34,5 @@ MonoBehaviour:
     _rarity: 20
   - _name: 8 Titan
     _rarity: 20
+  - _name: Adamance
+    _rarity: 25

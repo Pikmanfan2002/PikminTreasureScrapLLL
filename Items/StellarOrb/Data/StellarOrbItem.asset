@@ -32,8 +32,8 @@ MonoBehaviour:
   minValue: 130
   spawnPrefab: {fileID: 8186815643349398352, guid: a4c180a8dfd086f458e5cfc381eff16a,
     type: 3}
-  requiresBattery: 0
-  batteryUsage: 5
+  requiresBattery: 1
+  batteryUsage: 225
   automaticallySetUsingPower: 1
   itemIcon: {fileID: 21300000, guid: 5077629cfdaed474791e758c4b2eab7c, type: 3}
   grabAnim: 
@@ -42,7 +42,7 @@ MonoBehaviour:
   throwAnim: 
   grabAnimationTime: 0
   grabSFX: {fileID: 8300000, guid: ba9bdb502e2575947a069f76035ddcfe, type: 3}
-  dropSFX: {fileID: 8300000, guid: f53ddc1c8fc4bad428bd373c9df0a400, type: 3}
+  dropSFX: {fileID: 8300000, guid: 51eab74f87a4e8c479ee8b3d95632ced, type: 3}
   pocketSFX: {fileID: 0}
   throwSFX: {fileID: 0}
   syncGrabFunction: 0

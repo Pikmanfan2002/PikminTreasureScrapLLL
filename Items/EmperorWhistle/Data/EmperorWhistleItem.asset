@@ -52,7 +52,7 @@ MonoBehaviour:
   saveItemVariable: 0
   isDefensiveWeapon: 0
   toolTips:
-  - 'Use Emperor Whistle : [RMB'
+  - 'Use Emperor Whistle : [LMB]'
   verticalOffset: 0
   floorYOffset: 0
   allowDroppingAheadOfPlayer: 1

@@ -25,6 +25,10 @@ MonoBehaviour:
   - _name: 85 Rend
     _rarity: 10
   - _name: 7 Dine
-    _rarity: 10
+    _rarity: 15
   - _name: 8 Titan
     _rarity: 15
+  - _name: Artifice
+    _rarity: 15
+  - _name: Adamance
+    _rarity: 5

@@ -19,7 +19,7 @@ MonoBehaviour:
   currentWeather: []
   planetNames:
   - _name: 41 Experimentation
-    _rarity: 35
+    _rarity: 10
   - _name: 220 Assurance
     _rarity: 35
   - _name: 56 Vow

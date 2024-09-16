@@ -14,23 +14,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   modNames: []
   authorNames: []
-  levelTags: []
+  levelTags:
+  - _name: Custom
+    _rarity: 3
   currentRoutePrice: []
   currentWeather: []
   planetNames:
-  - _name: 41 Experimentation
+  - _name: Experimentation
     _rarity: 30
-  - _name: 220 Assurance
+  - _name: Assurance
     _rarity: 30
-  - _name: 56 Vow
-    _rarity: 30
-  - _name: 21 Offense
+  - _name: Vow
     _rarity: 20
-  - _name: 61 March
+  - _name: Offense
     _rarity: 20
-  - _name: 85 Rend
+  - _name: March
+    _rarity: 20
+  - _name: Adamance
+    _rarity: 10
+  - _name: Rend
     _rarity: 8
-  - _name: 7 Dine
+  - _name: Dine
     _rarity: 8
-  - _name: 8 Titan
-    _rarity: 9
+  - _name: Titan
+    _rarity: 0
+  - _name: Artifice
+    _rarity: 0
+  - _name: Embrion
+    _rarity: 0
