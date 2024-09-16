@@ -14,7 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   modNames: []
   authorNames: []
-  levelTags: []
+  levelTags:
+  - _name: Custom
+    _rarity: 2
   currentRoutePrice: []
   currentWeather: []
   planetNames:

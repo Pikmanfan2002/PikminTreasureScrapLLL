@@ -15,8 +15,6 @@ MonoBehaviour:
   modNames: []
   authorNames: []
   levelTags:
-  - _name: Vanilla
-    _rarity: 2
   - _name: Custom
     _rarity: 2
   currentRoutePrice: []
