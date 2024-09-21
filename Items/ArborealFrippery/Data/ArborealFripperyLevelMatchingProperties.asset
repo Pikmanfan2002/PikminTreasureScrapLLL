@@ -15,28 +15,12 @@ MonoBehaviour:
   modNames: []
   authorNames: []
   levelTags:
+  - _name: Vanilla
+    _rarity: 1
   - _name: Custom
-    _rarity: 2
+    _rarity: 1
   currentRoutePrice: []
   currentWeather: []
   planetNames:
-  - _name: Experimentation
-    _rarity: 2
-  - _name: Assurance
-    _rarity: 2
-  - _name: Vow
-    _rarity: 10
-  - _name: Offense
-    _rarity: 2
-  - _name: March
-    _rarity: 15
   - _name: Adamance
     _rarity: 20
-  - _name: Rend
-    _rarity: 10
-  - _name: Dine
-    _rarity: 10
-  - _name: Titan
-    _rarity: 10
-  - _name: Artifice
-    _rarity: 10

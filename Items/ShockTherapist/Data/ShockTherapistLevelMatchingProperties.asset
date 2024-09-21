@@ -15,12 +15,12 @@ MonoBehaviour:
   modNames: []
   authorNames: []
   levelTags:
+  - _name: Vanilla
+    _rarity: 1
   - _name: Custom
-    _rarity: 2
+    _rarity: 1
   currentRoutePrice: []
   currentWeather: []
   planetNames:
-  - _name: 8 Titan
-    _rarity: 3
-  - _name: Artifice
+  - _name: Titan
     _rarity: 10

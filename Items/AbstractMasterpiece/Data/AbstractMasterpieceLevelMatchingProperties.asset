@@ -15,22 +15,14 @@ MonoBehaviour:
   modNames: []
   authorNames: []
   levelTags:
+  - _name: Vanilla
+    _rarity: 1
   - _name: Custom
-    _rarity: 2
+    _rarity: 1
   currentRoutePrice:
   - _minMax: {x: 0, y: 0}
     _rarity: 0
   currentWeather: []
   planetNames:
-  - _name: Experimentation
-    _rarity: 3
-  - _name: Assurance
-    _rarity: 3
-  - _name: Vow
-    _rarity: 3
-  - _name: Offense
-    _rarity: 3
   - _name: March
-    _rarity: 3
-  - _name: Artifice
-    _rarity: 10
+    _rarity: 20

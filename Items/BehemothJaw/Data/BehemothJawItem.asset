@@ -15,7 +15,7 @@ MonoBehaviour:
   itemId: 0
   itemName: Behemoth Jaw
   spawnPositionTypes: []
-  twoHanded: 0
+  twoHanded: 1
   twoHandedAnimation: 1
   disableHandsOnWall: 0
   canBeGrabbedBeforeGameStart: 1

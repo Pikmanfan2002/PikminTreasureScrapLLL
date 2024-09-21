@@ -15,16 +15,12 @@ MonoBehaviour:
   modNames: []
   authorNames: []
   levelTags:
+  - _name: Vanilla
+    _rarity: 1
   - _name: Custom
-    _rarity: 2
+    _rarity: 1
   currentRoutePrice: []
   currentWeather: []
   planetNames:
-  - _name: Rend
-    _rarity: 12
-  - _name: Dine
-    _rarity: 12
   - _name: Titan
-    _rarity: 12
-  - _name: Artifice
-    _rarity: 5
+    _rarity: 20
