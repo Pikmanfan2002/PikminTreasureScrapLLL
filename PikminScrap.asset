@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <ModName>k__BackingField: PikminScrap
   <AuthorName>k__BackingField: Pikmanfan2002
-  <ModMergeSetting>k__BackingField: 0
+  <ModMergeSetting>k__BackingField: 1
   <ExtendedLevels>k__BackingField: []
   <ExtendedDungeonFlows>k__BackingField: []
   <ExtendedItems>k__BackingField:
